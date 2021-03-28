@@ -1,1 +1,1 @@
-# Slide---Carousel
+# Carousel
